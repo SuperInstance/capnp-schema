@@ -1,0 +1,9 @@
+[package]
+name = "capnp-schema"
+version = "0.1.0"
+description = "A Rust library for Capnp Schema"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/casey-digennaro/capnp-schema"
+edition = "2021"
+
+[dependencies]
