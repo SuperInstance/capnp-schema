@@ -1,9 +1,11 @@
 [package]
 name = "capnp-schema"
 version = "0.1.0"
-description = "A Rust library for Capnp Schema"
+description = "Capnp Schema — Rust implementation with the SuperInstance polyformalism canary wired in."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/casey-digennaro/capnp-schema"
+repository = "https://github.com/SuperInstance/capnp-schema"
 edition = "2021"
+
+keywords = ["capnp-schema"]
 
 [dependencies]
